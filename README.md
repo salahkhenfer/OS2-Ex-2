@@ -1,6 +1,6 @@
 # OS2-Ex-2
 
-
+``` 
 #include <stdio.h>
 #include <unistd.h>
 
@@ -36,3 +36,7 @@ int main() {
 
     return 0;
 }
+
+
+
+```
